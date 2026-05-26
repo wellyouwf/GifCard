@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    margin: 0;
+    padding: 0;
+}
+.cartao{
+    width: 260 px;
+    height: 200 px;
+}
+.cartao-imagem{
+    width: 100%;
+}

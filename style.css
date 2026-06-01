@@ -3,7 +3,18 @@
     padding: 0;
 }
 .cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: 15px 25px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main{
+    flex: 1;
 }
 .cartao{
     width: 260px;
